@@ -1,0 +1,7 @@
+Package: cyber-monitor
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Analyste Cyber <analyste@example.com>
+Description: Demon de surveillance et persistance systemd
+ Service de surveillance minimaliste illustrant le vecteur de persistance
+ Systemd (MITRE ATT&CK T1543.002) via packaging Debian.
